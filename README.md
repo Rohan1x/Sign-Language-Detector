@@ -42,3 +42,33 @@ jupyter lab   # or jupyter notebook
 
 
 Then open ActionRecognition.ipynb and run each cell sequentially.
+
+
+
+🧩 Features
+
+Extracts pose/hand/face keypoints with Mediapipe Holistic
+
+Preprocesses keypoint sequences for model input
+
+Trains an LSTM model in TensorFlow/Keras
+
+Evaluates accuracy and confusion matrix
+
+Optional real-time webcam demo via OpenCV
+
+📊 Results
+
+Validation accuracy ≈ 93%
+
+Low latency (<0.2 s per frame)
+
+Logs automatically saved under Logs/train/
+
+🧰 Tools Used
+
+Python · TensorFlow · Keras · Mediapipe · OpenCV · NumPy · Pandas · Matplotlib
+
+👤 Author
+
+Rohan Domenguez
