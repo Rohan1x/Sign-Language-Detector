@@ -45,7 +45,7 @@ Then open ActionRecognition.ipynb and run each cell sequentially.
 
 
 
-🧩 Features
+🧩 **Features**
 
 Extracts pose/hand/face keypoints with Mediapipe Holistic
 
@@ -57,7 +57,9 @@ Evaluates accuracy and confusion matrix
 
 Optional real-time webcam demo via OpenCV
 
-📊 Results
+
+
+📊 **Results**
 
 Validation accuracy ≈ 93%
 
@@ -65,9 +67,13 @@ Low latency (<0.2 s per frame)
 
 Logs automatically saved under Logs/train/
 
-🧰 Tools Used
 
+
+**🧰 Tools Used
+**
 Python · TensorFlow · Keras · Mediapipe · OpenCV · NumPy · Pandas · Matplotlib
+
+
 
 👤 Author
 
